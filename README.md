@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I use GitHub to store my portfolio at this moment. It consists of the following projects
+I use GitHub to store my portfolio at this moment. It consists of the following projects:
 #### [DifEquMaster](https://github.com/VRBarysh/DifEqMaster)
 This is a rather large heap of C++ code that I've been piling up for about 20 years. Basically, this is my framework for solving differential equations while controlling the process in real-time and then analysing the results. The equations solved there came from my scientific research. Both my Master's and PhD deegrees works were based on this code.
 Keyword stack: C++, OOP, mathematical programming, Cauchy problem, Runge-Kutta methods, signal analysis, FFT, thread-based parallel computing, gradient descent and particle swarm optimization
