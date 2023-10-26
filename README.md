@@ -16,3 +16,8 @@ Keyword stack: Python, ML, PyTorch, 1D-CNN, sklearn, numpy, pywt, time series an
 This is one of the training projects that I've created at Yandex Practium data science course. In this project I've used a variety of ML models to predict prices on the used car market.  
   
 Keyword stack: Python, ML, sklearn, LightGBM, Catboost, pandas, numpy
+
+#### [ML-for-taxi-service-load](https://github.com/VRBarysh/ML-for-taxi-service-load)
+This is one of the training projects at Yandex Practicum. Here I use various ML model to decompose and analyse time series to predict future load dynamics for a taxi service.
+
+Keyword stack: Python, ML, time series, sklearn, LightGBM, pandas, numpy
