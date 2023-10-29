@@ -7,7 +7,7 @@ This is a rather large heap of C++ code that I've been piling up for about 20 ye
 
 
 #### [Kaggle-FOG](https://github.com/VRBarysh/Kagge-FOG)
-This is a summary my participation in a Kaggle competition. In this competition we had to analyse time series of accelerometer data to detect an early symptom of Parkinson's disease called freezing of gait. The repository consists of the main project of our team, my own alternative solution project and my silver-winning EDA notebook.  
+This is a summary of my participation in a Kaggle competition. In this competition we had to analyse time series of accelerometer data to detect an early symptom of Parkinson's disease called freezing of gait. The repository consists of the main project of our team, my own alternative solution project and my silver-winning EDA notebook.  
   
 <ins>Keyword stack:</ins> Python, ML, PyTorch, 1D-CNN, sklearn, numpy, pywt, time series analysis
 
