@@ -18,6 +18,6 @@ This is one of the training projects that I've created at Yandex Practium data s
 <ins>Keyword stack:</ins> Python, ML, sklearn, LightGBM, Catboost, pandas, numpy
 
 #### [ML-for-taxi-service-load](https://github.com/VRBarysh/ML-for-taxi-service-load)
-This is one of the training projects at Yandex Practicum. Here I use various ML model to decompose and analyse time series to predict future load dynamics for a taxi service.
+This is one of the training projects at Yandex Practicum. Here I use various ML models to decompose and analyse time series to predict future load dynamics for a taxi service.
 
 <ins>Keyword stack:</ins> Python, ML, time series, sklearn, LightGBM, pandas, numpy
