@@ -16,7 +16,7 @@ This is my solution of a test task where I had to detect cars and classify them 
 
 I use the following pipeline here: Single Shot Detector -> Fully convolutional for segmentation -> 2D histogram -> classification
 
-<ins>Keyword stack:</ins> Python, ML, image segmentation, visual object recognition, PyTorch, ResNet, Single Shot Detector, FCN
+<ins>Keyword stack:</ins> Python, ML, CV, image segmentation, visual object recognition, PyTorch, ResNet, Single Shot Detector, FCN
 
 
 #### [ML-for-used-car-prices](https://github.com/VRBarysh/ML-for-used-car-prices)
