@@ -12,7 +12,7 @@ This is a summary of my participation in a Kaggle competition. In this competiti
 <ins>Keyword stack:</ins> Python, ML, PyTorch, 1D-CNN, sklearn, numpy, pywt, time series analysis
 
 #### [ML-for-car-color-recognition ](https://github.com/VRBarysh/ML-for-car-color-recognition )
-This is my solution of a test task where I had to detect cars and classify them by color on pictures. I've achieved over 90% accuracy over 8 color classes (black, blue, green, grey, orange, red, white, yellow) from the test part of the dataset with almost half of the errors corresponding to wrong or questinable labels.
+This is my solution of a test task where I had to detect cars and classify them by color on pictures. I've achieved over 90% accuracy over 8 color classes (black, blue, green, grey, orange, red, white, yellow) from the test part of the dataset with almost half of the errors corresponding to wrong or questionable labels.
 
 I use the following pipeline here: Single Shot Detector -> Fully convolutional for segmentation -> 2D histogram -> classification
 
