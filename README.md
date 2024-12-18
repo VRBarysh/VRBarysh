@@ -28,3 +28,9 @@ This is one of the training projects that I've created at Yandex Practium data s
 This is one of the training projects at Yandex Practicum. Here I use various ML models to decompose and analyse time series to predict future load dynamics for a taxi service.
 
 <ins>Keyword stack:</ins> Python, ML, time series, sklearn, LightGBM, pandas, numpy
+
+#### [CAD-Exchanger-test](https://github.com/VRBarysh/CAD-Exchanger-test)
+This is a simple test case to demonstrate modern C++ knoweledge
+
+<ins>Keyword stack:</ins> C++, OOP, STL, OpenMP
+
